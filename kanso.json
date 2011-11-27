@@ -1,0 +1,13 @@
+{
+  "name": "spine",
+  "version": "0.0.1",
+  "description": "spine.js for kanso",
+  "modules": "spine/lib",
+  "attachments": "spine/index.js",
+  "dependencies": {
+    "settings": null,
+    "modules": null,
+    "attachments": null
+
+  }
+}
