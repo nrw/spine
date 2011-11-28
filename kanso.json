@@ -1,6 +1,7 @@
 {
   "name": "spine",
   "version": "0.0.2",
+  "categories": ["frameworks"],
   "description": "spine.js for kanso",
   "modules": "spine",
   "dependencies": {
