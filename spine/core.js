@@ -685,7 +685,7 @@
 
   })();
 
-  $ = this.jQuery || this.Zepto || function(element) {
+  $ = window.jQuery || window.Zepto || function(element) {
     return element;
   };
 
