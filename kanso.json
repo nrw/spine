@@ -4,8 +4,14 @@
   "categories": ["frameworks"],
   "description": "spine.js for kanso",
   "modules": "spine",
+
+  "coffee-script": {
+    "modules": "spine"
+  },
+
   "dependencies": {
     "settings": null,
+    "coffee-script-precompiler": null,
     "modules": null
   }
 }
