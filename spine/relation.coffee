@@ -1,4 +1,4 @@
-Spine   ?= require('spine')
+Spine   ?= require('spine/core')
 require ?= ((value) -> eval(value))
 
 class Collection extends Spine.Module

@@ -1,4 +1,4 @@
-Spine ?= require('spine')
+Spine ?= require('spine/core')
 
 Spine.Model.Local =
   extended: ->

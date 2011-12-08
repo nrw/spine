@@ -1,4 +1,4 @@
-Spine ?= require('spine')
+Spine ?= require('spine/core')
 $      = Spine.$
 
 class Spine.Tabs extends Spine.Controller
