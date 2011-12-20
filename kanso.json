@@ -1,8 +1,8 @@
 {
   "name": "spine",
-  "version": "0.0.2",
+  "version": "1.0.5+build.1.1e2fe5b4c6",
   "categories": ["frameworks"],
-  "description": "spine.js for kanso",
+  "description": "Kanso package of spine.js",
   "modules": "spine",
 
   "coffee-script": {
