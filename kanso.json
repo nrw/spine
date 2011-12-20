@@ -1,6 +1,6 @@
 {
   "name": "spine",
-  "version": "1.0.5+build.1.1e2fe5b4c6",
+  "version": "1.0.5",
   "categories": ["frameworks"],
   "description": "Kanso package of spine.js",
   "modules": "spine",
