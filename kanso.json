@@ -1,6 +1,6 @@
 {
   "name": "spine",
-  "version": "1.0.6-kanso.1",
+  "version": "1.0.6-kanso.2",
   "categories": ["frameworks"],
   "description": "Lightweight MVC library for building JavaScript applications.",
   "modules": "spine",
