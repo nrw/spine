@@ -1,17 +1,12 @@
 {
   "name": "spine",
-  "version": "1.0.5",
+  "version": "1.0.6-kanso.1",
   "categories": ["frameworks"],
-  "description": "Kanso package of spine.js",
+  "description": "Lightweight MVC library for building JavaScript applications.",
   "modules": "spine",
-
-  "coffee-script": {
-    "modules": "spine"
-  },
 
   "dependencies": {
     "settings": null,
-    "coffee-script-precompiler": null,
     "modules": null
   }
 }
