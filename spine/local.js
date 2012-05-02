@@ -2,7 +2,7 @@
 (function() {
   var Spine;
 
-  Spine = (global || window).Spine || require('spine');
+  Spine = (window).Spine || require('spine/spine');
 
   Spine.Model.Local = {
     extended: function() {

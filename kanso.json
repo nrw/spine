@@ -1,9 +1,10 @@
 {
   "name": "spine",
-  "version": "1.0.6-kanso.2",
+  "version": "1.0.6-kanso.3",
   "categories": ["frameworks"],
   "description": "Lightweight MVC library for building JavaScript applications.",
   "modules": "spine",
+  "url": "http://spinejs.com",
 
   "dependencies": {
     "settings": null,
